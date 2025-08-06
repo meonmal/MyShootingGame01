@@ -10,6 +10,7 @@ public class Bullet : MonoBehaviour
 
     private void Awake()
     {
+        // Rigidbody2D 가져오기
         rigid = GetComponent<Rigidbody2D>();
     }
 

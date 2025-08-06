@@ -422,6 +422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 318f2d636df993044b7d0fbceb9c44b8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  coolTime: 3
   spawnPosition: {fileID: 1289453239}
   bullet: {fileID: 4935830573014871410, guid: 45cd7c1666343cd4a982637f5936e309, type: 3}
 --- !u!1 &519420028
@@ -865,6 +866,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d3aac88b3bb54c41b977cb84090ae25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentHP: 0
   maxHP: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
